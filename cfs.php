@@ -7,7 +7,7 @@ Author: Matt Gibbs
 Text Domain: cfs
 Domain Path: /languages/
 */
-
+#[AllowDynamicProperties]
 class Custom_Field_Suite
 {
 
