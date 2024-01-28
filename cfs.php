@@ -7,6 +7,10 @@ Author: Matt Gibbs
 Text Domain: cfs
 Domain Path: /languages/
 */
+
+/**
+ * @see https://php.watch/versions/8.2/dynamic-properties-deprecated
+ */
 #[AllowDynamicProperties]
 class Custom_Field_Suite
 {
